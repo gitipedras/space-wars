@@ -1,7 +1,7 @@
 # Space Wars
 
 A pygame program.
-CURRENT RELEASE: v1.0
+CURRENT RELEASE: v1.1
 
 ## Set up
 

@@ -1,1 +1,3 @@
-# space-wars
+# Space Wars
+
+A pygame program.
